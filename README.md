@@ -69,7 +69,7 @@ The end goal will be a clean, self-explanatory, and interactive dashboard for th
 - A similar dataset to Cleaned Merged Dataset 1 but only consists of unique employee ID.
 
 
-## 🔍 Findings
+## 🔍 Executive Summary
 
 1. Atlas Lab has hired 1217 employees since 2013 and the average age of the employees in the company is around 30 years old, which is considered relatively young.
 
