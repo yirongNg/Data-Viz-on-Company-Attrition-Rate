@@ -1,6 +1,7 @@
 # Analysis on Company Attrition Rate
 
 ## 🔗 Project Links
+- [Data Cleaning on Jupyter Notebook](https://app.datacamp.com/workspace/w/ee3ec299-eec7-4c61-90a5-4b2905878caf)
 - [Interactive Dashboard on Tableau](https://public.tableau.com/views/HRAnalytics_16845123839020/ExecutiveSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 📖 Background
@@ -60,6 +61,12 @@ The end goal will be a clean, self-explanatory, and interactive dashboard for th
 |---------------|-----------|
 | Education Level ID | A unique id that identifies a education level
 | Education Level |	A unique ID that identifies an employee, connects to the **Employee** table|
+
+### Cleaned Merged Dataset 1 (`cleaned_data.csv`)
+- A merged dataset consists of Employee Table, Performance Rating Table, and Education Level Table that has duplicates and errors removed.
+
+### Cleaned Merged Dataset 2 (`unique_employeeId_data.csv`)
+- A similar dataset to Cleaned Merged Dataset 1 but only consists of unique employee ID.
 
 
 ## 🔍 Findings
