@@ -64,15 +64,18 @@ The end goal will be a clean, self-explanatory, and interactive dashboard for th
 
 ## 🔍 Findings
 
-1. The total attrition rate for the company is 33.6% and Sale Department has the highest attrition rate of 40.69%.
+1. Atlas Lab has hired 1217 employees since 2013 and the average age of the employees in the company is around 30 years old, which is considered relatively young.
 
-2. High attrition rate comes from employees who worked less than 2 years in the company.
+2. The total attrition rate for the company from 2013 to 2022 is 18.41% and Sales Department has the highest attrition rate of 24.18%, followed by Human Resources department and Technology department which had 22.64% and 15.50% attrition rate, respectively. However, the attrition rate has been decreasing since Year 2013 from a high rate of 84.38% to 19.77% on Year 2022.
 
-3. Factors that are likely to impact attrition are job satisfaction, environment satisfaction, relationship satisfaction, work life balance, and salary.
+3. High attrition rate comes from employees who worked less than 2 years in the company.
 
-4. Recommended actions to reduce attrition:
+4. Factors that are likely to impact attrition are job satisfaction, environment satisfaction, relationship satisfaction, work life balance, and salary.
+
+5. Recommended actions to reduce attrition:
     - Increase salary for sales representatives, recruiters, data scientists, sales executives, and software engineers.
     - Allows hybrid working to improve work life balance.
     - Have more engagement with junior employees to build rapport.
 
-![image-2](https://github.com/yirongNg/Data-Viz-on-Company-Attrition-Rate/assets/132359604/2c2449d8-af94-4bd7-9c39-cd6e159d17ba)
+![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Company-Attrition-Rate/assets/132359604/04cdf4ec-dbb7-4cc6-b095-d1ad7c382448)
+
