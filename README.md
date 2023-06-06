@@ -1,7 +1,7 @@
 # Analysis on Company Attrition Rate
 
 ## 🔗 Project Links
-- [Data Cleaning on Jupyter Notebook](https://app.datacamp.com/workspace/w/ee3ec299-eec7-4c61-90a5-4b2905878caf)
+- [Data Cleaning on Jupyter Notebook](https://app.datacamp.com/workspace/w/a1d227d0-4a94-4a0b-92ea-35eba9d6dc94/edit)
 - [Interactive Dashboard on Tableau](https://public.tableau.com/views/HRAnalytics_16845123839020/ExecutiveSummary?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 📖 Background
