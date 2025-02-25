@@ -81,8 +81,8 @@ The end goal will be a clean, self-explanatory, and interactive dashboard for th
 
 5. Recommended actions to reduce attrition:
     - Increase the salary of employees who have high education level in Sales and HR department.
-    - Allows hybrid working to improve work life balance, especially for employees who are married.
-    - Reduce the workload on job roles that often need to work over time.
+    - Allow hybrid working to improve work life balance, especially for employees who are married.
+    - Hire more staff to reduce the workload on job roles that often need to work over time.
     - Encourage employees to enrol in training courses for upgrading their skillsets.
 
 ![Executive Summary](https://github.com/yirongNg/Data-Viz-on-Company-Attrition-Rate/assets/132359604/5a838492-3f02-48ec-b8db-60cba6d1165c)
